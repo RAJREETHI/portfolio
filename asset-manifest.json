@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c7b47af7.css",
+    "main.js": "/portfolio/static/js/main.4ece5c7d.js",
+    "static/media/experience.png": "/portfolio/static/media/experience.4565abbc9bd67d31eb8d.png",
+    "static/media/profile.PNG": "/portfolio/static/media/profile.4e548d62c3c41e3e6a38.PNG",
+    "static/media/heroBackground.png": "/portfolio/static/media/heroBackground.64f73b0b4f6ea0d09246.png",
+    "static/media/resume-analyser.png": "/portfolio/static/media/resume-analyser.59c5667411f9f14807c8.png",
+    "static/media/spelling-bee.png": "/portfolio/static/media/spelling-bee.bdad00aabf0ccaa1db73.png",
+    "static/media/stockprediction.webp": "/portfolio/static/media/stockprediction.02c533861e1a05000e46.webp",
+    "static/media/education.jpg": "/portfolio/static/media/education.8cee12b9ec9db9fe32e0.jpg",
+    "static/media/skills.jpg": "/portfolio/static/media/skills.bf5e0c8e9cb5c6b91b0a.jpg",
+    "static/media/projects.avif": "/portfolio/static/media/projects.dda489684388c39c7974.avif",
+    "index.html": "/portfolio/index.html",
+    "main.c7b47af7.css.map": "/portfolio/static/css/main.c7b47af7.css.map",
+    "main.4ece5c7d.js.map": "/portfolio/static/js/main.4ece5c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b47af7.css",
+    "static/js/main.4ece5c7d.js"
+  ]
+}
